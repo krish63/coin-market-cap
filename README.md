@@ -1,7 +1,7 @@
 ### coin-market-cap
 
 This repository runs UI & API tests on coin-market-cap
-It also generate `screen shots` for your tests if you enable it and
+It also generate `screen shots` for your tests if you enable it and generates reports at the end of the test
 
 ### Installation (pre-requisites)
 
